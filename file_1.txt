@@ -1,6 +1,5 @@
 import pandas as pd
 import seaborn as sns
 
-#code ini berasal dari local
+#code ini berasal dari main
 
-#test pull dari rian
